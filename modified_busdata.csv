@@ -1,0 +1,101 @@
+Time,Bus Number,Source,Destination
+04:44 AM,111V,Vizianagaram,Vizag
+08:33 AM,222,Vizag,Srikakulam
+11:00 PM,411V,Srikakulam,Kurmannapalem
+07:16 AM,Express,Kurmannapalem,Railway Station
+10:58 PM,Super Ultra,Railway Station,Vizianagaram
+04:07 PM,Private,Vizag,Srikakulam
+08:30 AM,111V,Vizianagaram,Vizag
+02:50 PM,222,Vizag,Kurmannapalem
+06:35 PM,411V,Kurmannapalem,Railway Station
+02:52 PM,Express,Railway Station,Srikakulam
+04:18 PM,Super Ultra,Srikakulam,Vizag
+01:02 AM,Private,Vizag,Vizianagaram
+11:00 AM,111V,Vizianagaram,Srikakulam
+10:57 AM,222,Srikakulam,Railway Station
+02:36 PM,411V,Railway Station,Kurmannapalem
+11:23 AM,Express,Kurmannapalem,Vizag
+11:50 AM,Super Ultra,Vizag,Vizianagaram
+01:35 AM,Private,Vizianagaram,Railway Station
+10:53 PM,111V,Railway Station,Srikakulam
+04:36 AM,222,Srikakulam,Kurmannapalem
+09:02 AM,411V,Kurmannapalem,Vizag
+11:53 AM,Express,Vizag,Vizianagaram
+07:30 PM,Super Ultra,Vizianagaram,Railway Station
+03:39 PM,Private,Railway Station,Srikakulam
+06:28 PM,111V,Srikakulam,Vizag
+05:26 AM,222,Vizag,Kurmannapalem
+03:37 AM,411V,Kurmannapalem,Vizianagaram
+02:28 PM,Express,Vizianagaram,Railway Station
+12:59 AM,Super Ultra,Railway Station,Srikakulam
+05:27 PM,Private,Srikakulam,Vizag
+02:54 AM,111V,Vizag,Kurmannapalem
+11:12 AM,222,Kurmannapalem,Vizianagaram
+03:24 PM,411V,Vizianagaram,Railway Station
+06:50 PM,Express,Railway Station,Srikakulam
+10:23 AM,Super Ultra,Srikakulam,Vizag
+12:54 AM,Private,Vizag,Vizianagaram
+05:08 PM,111V,Vizianagaram,Srikakulam
+11:52 AM,222,Srikakulam,Railway Station
+04:33 AM,411V,Railway Station,Kurmannapalem
+07:43 PM,Express,Kurmannapalem,Vizag
+11:58 PM,Super Ultra,Vizag,Vizianagaram
+10:52 AM,Private,Vizianagaram,Srikakulam
+09:55 AM,111V,Srikakulam,Kurmannapalem
+02:50 AM,222,Kurmannapalem,Vizag
+01:03 AM,411V,Vizag,Vizianagaram
+12:21 AM,Express,Vizianagaram,Railway Station
+10:48 AM,Super Ultra,Railway Station,Srikakulam
+01:12 PM,Private,Srikakulam,Vizag
+04:37 PM,111V,Vizag,Vizianagaram
+09:40 AM,222,Vizianagaram,Srikakulam
+04:12 AM,411V,Srikakulam,Kurmannapalem
+12:48 AM,Express,Kurmannapalem,Railway Station
+06:53 AM,Super Ultra,Railway Station,Vizag
+03:55 PM,Private,Vizag,Vizianagaram
+04:10 AM,111V,Vizianagaram,Srikakulam
+11:35 AM,222,Srikakulam,Kurmannapalem
+11:17 PM,411V,Kurmannapalem,Vizag
+12:31 AM,Express,Vizag,Vizianagaram
+06:17 AM,Super Ultra,Vizianagaram,Railway Station
+07:54 AM,Private,Railway Station,Srikakulam
+04:05 AM,111V,Srikakulam,Kurmannapalem
+07:45 AM,222,Kurmannapalem,Vizag
+08:01 PM,411V,Vizag,Vizianagaram
+04:29 AM,Express,Vizianagaram,Srikakulam
+04:37 AM,Super Ultra,Srikakulam,Railway Station
+01:30 PM,Private,Railway Station,Kurmannapalem
+10:23 PM,111V,Kurmannapalem,Vizag
+09:58 AM,222,Vizag,Vizianagaram
+08:29 PM,411V,Vizianagaram,Srikakulam
+02:51 PM,Express,Srikakulam,Railway Station
+11:36 AM,Super Ultra,Railway Station,Kurmannapalem
+04:01 AM,Private,Kurmannapalem,Vizag
+01:53 PM,111V,Vizag,Vizianagaram
+04:45 AM,222,Vizianagaram,Srikakulam
+08:06 PM,411V,Srikakulam,Railway Station
+10:44 AM,Express,Railway Station,Kurmannapalem
+02:02 PM,Super Ultra,Kurmannapalem,Vizag
+06:26 PM,Private,Vizag,Vizianagaram
+10:07 PM,111V,Vizianagaram,Srikakulam
+10:51 AM,222,Srikakulam,Railway Station
+06:43 AM,411V,Railway Station,Kurmannapalem
+01:43 AM,Express,Kurmannapalem,Vizag
+07:04 AM,Super Ultra,Vizag,Vizianagaram
+09:42 AM,Private,Vizianagaram,Srikakulam
+12:18 AM,111V,Srikakulam,Kurmannapalem
+05:25 PM,222,Kurmannapalem,Vizag
+03:25 AM,411V,Vizag,Vizianagaram
+11:45 AM,Express,Vizianagaram,Railway Station
+03:25 PM,Super Ultra,Railway Station,Srikakulam
+09:19 AM,Private,Srikakulam,Kurmannapalem
+03:03 PM,111V,Kurmannapalem,Vizag
+01:11 PM,222,Vizag,Vizianagaram
+09:39 PM,411V,Vizianagaram,Srikakulam
+07:03 PM,Express,Srikakulam,Railway Station
+07:02 PM,Super Ultra,Railway Station,Kurmannapalem
+01:50 AM,Private,Kurmannapalem,Vizag
+11:18 AM,111V,Vizag,Vizianagaram
+05:42 AM,222,Vizianagaram,Srikakulam
+03:27 AM,411V,Srikakulam,Railway Station
+11:30 PM,Express,Railway Station,Kurmannapalem
